@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/jbeimler/demo-app
-  newTag: 3b8d658ba63080b13abd4d662f8fd4bdae5918ec
+  newTag: 3018c9a4d8a7b5969afa06b05c536972625dd47f
