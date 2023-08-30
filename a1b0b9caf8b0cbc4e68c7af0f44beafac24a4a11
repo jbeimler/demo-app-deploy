@@ -1,1 +1,3 @@
 image: ghcr.io/jbeimler/demo-app:3018c9a4d8a7b5969afa06b05c536972625dd47f
+
+env: stage
